@@ -1,5 +1,5 @@
 # TestNg Integerated with Page Object Model (POM)
-This repository contains a Page Object Model (POM) framework implemented in Java for automated testing of web applications. The framework is designed to improve code maintainability, readability, and reusability by organizing test code into separate page classes and utilizing TestNG for test execution.
+This repository contains a Page Object Model (POM) framework implemented in Java for automated testing of Tendable Application. The framework is designed to improve code maintainability, readability, and reusability by organizing test code into separate page classes and utilizing TestNG for test execution.
 
 # Features:
 Page Object Model (POM): Each web page is represented as a separate class, encapsulating its elements and functionality. This enhances code organization and readability.
@@ -17,7 +17,7 @@ src/test/java/com/runner: Contains test classes with test methods using TestNG a
 
 # Usage:
 # 1.Clone the repository:
-git clone https://github.com/yourusername/pom-framework.git
+git clone 
 
 # 2
 Import the project into your preferred Java IDE.
