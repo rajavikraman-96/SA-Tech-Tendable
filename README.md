@@ -17,7 +17,7 @@ src/test/java/com/runner: Contains test classes with test methods using TestNG a
 
 # Usage:
 # 1.Clone the repository:
-git clone 
+git clone https://github.com/rajavikraman-96/SA-Tech-Tendable.git
 
 # 2
 Import the project into your preferred Java IDE.
